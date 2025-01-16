@@ -115,6 +115,13 @@ content:
       - layout: left
         title: The Zebra Company
         link: boringcompany.com
+        icon: images/sharif-logo.png
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: images/sharif-logo.png
+            url: github.com/sproogen/modern-resume-theme
+        content: |
+          Here is the new content
         # link_text: boringcompany.com
         sub_title: Computer vision intetnship
         caption: Winter 2024
