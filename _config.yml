@@ -92,7 +92,10 @@ content:
           
 
       - layout: top-middle
-        title: Sharif University of Technology
+        title: | # this will include new lines to allow paragraphs
+          ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
+          
+          Sharif University of Technology
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: M.Sc.
@@ -101,7 +104,7 @@ content:
           # 
         description: | # this will include new lines to allow paragraphs
           ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
-          
+
           Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
           
 
@@ -109,7 +112,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Zebra Company
+        title: | # this will include new lines to allow paragraphs
+          ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
+          
+          The Zebra Company
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Computer vision intetnship
