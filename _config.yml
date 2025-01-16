@@ -86,9 +86,9 @@ content:
         # quote: >
 
         description: | # this will include new lines to allow paragraphs
-          <center>
-            ![ETS-logo](images/ETS-logo.png#center#center)
-          </center>
+          <p style="text-align: center;">
+            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
+          </p>
 
           4th year Ph.D. candidate working on Neonatal brain assessment using deep learning
           
@@ -97,8 +97,20 @@ content:
         title: Sharif University of Technology
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: M.Sc.
-        caption: August 2017 - Jan 2020
+        sub_title: |
+          M.Sc.
+
+          <p style="text-align: center;">
+            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
+          </p>
+
+        caption:  |
+          August 2017 - Jan 2020
+
+          <p style="text-align: center;">
+            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
+          </p>
+          
         # quote: >
           # 
         
