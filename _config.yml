@@ -81,15 +81,17 @@ content:
         title: École de technologie supérieure (ÉTS Montreal)
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Ph.D. 
-        caption: Aug. 2021 - Aug. 2025
+        sub_title: |
+          <p style="text-align: center;">
+            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+          </p>
+
+        caption: |
+          Ph.D.
+          Aug. 2021 - Aug. 2025
         # quote: >
 
         description: | # this will include new lines to allow paragraphs
-          <p style="text-align: center;">
-            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
-          </p>
-
           4th year Ph.D. candidate working on Neonatal brain assessment using deep learning
           
 
@@ -98,28 +100,17 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: |
+          <p style="text-align: center;">
+            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+          </p>
+
+        caption: |
           M.Sc.
-
-          <p style="text-align: center;">
-            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
-          </p>
-
-        caption:  |
           August 2017 - Jan 2020
-
-          <p style="text-align: center;">
-            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
-          </p>
-          
         # quote: >
           # 
-        
         description: | # this will include new lines to allow paragraphs
           Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
-          
-          <p style="text-align: center;">
-            <img src="images/sharif-logo.png" alt="Description" style="width: 100px;">
-          </p>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,7 +138,12 @@ content:
         title: The BarAI Startup
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Computer vision scientits
+        sub_title: |
+          Computer vision scientits
+          <p style="text-align: left;">
+            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+          </p>
+
         caption: August 2020 - August 2021
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
