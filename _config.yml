@@ -83,7 +83,7 @@ content:
         # link_text: boringcompany.com
         sub_title: |
           <p style="text-align: center;">
-            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
           </p>
 
         caption: |
@@ -101,7 +101,7 @@ content:
         # link_text: boringcompany.com
         sub_title: |
           <p style="text-align: center;">
-            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+            <img src="images/sharif-logo.png" alt="Description" style="width: 100px;">
           </p>
 
         caption: |
@@ -141,7 +141,7 @@ content:
         sub_title: |
           Computer vision scientits
           <p style="text-align: left;">
-            <img src="images/shairf-logo.png" alt="Description" style="width: 100px;">
+            <img src="images/ETS-logo.png" alt="Description" style="width: 100px;">
           </p>
 
         caption: August 2020 - August 2021
