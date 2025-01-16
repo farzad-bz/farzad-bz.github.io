@@ -99,14 +99,11 @@ content:
         caption: August 2017 - Jan 2020
         # quote: >
           # 
+        
         description: | # this will include new lines to allow paragraphs
           Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
           
-          <center>
-
-            ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
-          
-          <center>
+          <img src="images/sharif-logo.png" alt="Description" class="center">
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
