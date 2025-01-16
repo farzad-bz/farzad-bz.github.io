@@ -86,7 +86,7 @@ content:
         # quote: >
 
         description: | # this will include new lines to allow paragraphs
-          ![ETS-logo](images/ETS-logo.png#center "ETS-logo"){style="display: block; margin: 0 auto;"}
+          ![ETS-logo](images/ETS-logo.png#center#center)
 
           4th year Ph.D. candidate working on Neonatal brain assessment using deep learning
           
@@ -103,7 +103,9 @@ content:
           Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
           
           <center>
-          ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
+
+            ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
+          
           <center>
 
   - title: Experience # Title for the section
