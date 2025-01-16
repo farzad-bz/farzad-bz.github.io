@@ -80,7 +80,7 @@ content:
         title: École de technologie supérieure (ÉTS Montreal)
         # link: boringcompany.com
         # link_text: boringcompany.com
-        icon: images/favicon.ico
+        image: images/favicon.ico
         sub_title: Ph.D. 
         caption: Aug. 2021 - Aug. 2025
         quote: >
