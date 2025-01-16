@@ -86,8 +86,10 @@ content:
         # quote: >
 
         description: | # this will include new lines to allow paragraphs
-          4th year Ph.D. candidate working on Neonatal brain assessment using deep learning
           ![ETS-logo](images/ETS-logo.png "ETS-logo")
+
+          4th year Ph.D. candidate working on Neonatal brain assessment using deep learning
+          
 
       - layout: top-middle
         title: Sharif University of Technology
@@ -98,8 +100,10 @@ content:
         # quote: >
           # 
         description: | # this will include new lines to allow paragraphs
-          Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
           ![Sharif-logo](images/sharif-logo.png "Sharif-logo")
+          
+          Computer engineering department, Arificial intelligence and robotics field. Working on RGB-D human action recognition using deep neural networks.
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
